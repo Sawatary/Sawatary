@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Kirill Lee] – Frontend Developer 🚀
+# 👋 Hello! I'm Kirill Lee – Frontend Developer 🚀
 
 ## About me
 Hello! I'm a front-end developer who loves to create stylish, fast and intuitive interfaces for web applications. My goal is to write code that not only works, but also improves the user experience. Here's what I can do:
