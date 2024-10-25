@@ -1,6 +1,6 @@
 # 👋 Hello! I'm [Kirill Lee] – Frontend Developer 🚀
 
-## Немного обо мне
+## About me
 Hello! I'm a front-end developer who loves to create stylish, fast and intuitive interfaces for web applications. My goal is to write code that not only works, but also improves the user experience. Here's what I can do:
 
 - ⚙️ I care about the cleanliness and optimization of the code - this makes it easier to maintain and improve.
