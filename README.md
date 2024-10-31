@@ -15,6 +15,7 @@ Hello! I'm a frontend developer passionate about creating sleek, fast, and intui
 
 - ⚙️ I'm meticulous about code clarity and optimization, making it easier to scale and maintain.
 - 📱 Skilled in leveraging modern libraries and frameworks, especially React, for high-performance UI development.
+- 🌐 Experienced in using **Next.js** to build optimized, server-rendered applications with fast load times.
 
 ---
 
