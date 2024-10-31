@@ -29,4 +29,5 @@ Hello! I'm a frontend developer passionate about creating sleek, fast, and intui
 
 ## 🌱 Currently Learning
 - Expanding my knowledge of modern React hooks and diving deeper into TypeScript integration in React projects.
+- Also actively work with NEXT.JS
 
